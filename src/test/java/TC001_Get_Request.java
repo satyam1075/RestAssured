@@ -30,7 +30,7 @@ public class TC001_Get_Request {
 		int statusCode = response.getStatusCode();	
 		System.out.println("Response code:" + statusCode);
 		
-		Assert.assertEquals(statusCode, 200);
+		Assert.assertEquals(statusCode, 201);
 		
 		//status line validation
 		String statusLine = response.getStatusLine();
