@@ -30,12 +30,13 @@ public class TC001_Get_Request {
 		int statusCode = response.getStatusCode();	
 		System.out.println("Response code:" + statusCode);
 		
-		Assert.assertEquals(statusCode, 201);
+		Assert.assertEquals(statusCode, 200);
 		
 		//status line validation
 		String statusLine = response.getStatusLine();
 		Assert.assertEquals(statusLine, "HTTP/1.1 200 OK");
 		
+	
 		}
 
 }
