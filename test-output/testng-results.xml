@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-03-03T18:14:16 IST" name="Default suite" finished-at="2022-03-03T18:14:24 IST" duration-ms="7692">
+  <suite started-at="2022-03-08T15:10:39 IST" name="Default suite" finished-at="2022-03-08T15:10:39 IST" duration-ms="43">
     <groups>
     </groups>
-    <test started-at="2022-03-03T18:14:16 IST" name="Default test" finished-at="2022-03-03T18:14:24 IST" duration-ms="7692">
-      <class name="TC006_GET_VALUES_OF_EACH_NODE_IN_JSON">
-        <test-method signature="gooogleMapTest()[pri:0, instance:TC006_GET_VALUES_OF_EACH_NODE_IN_JSON@16610890]" started-at="2022-03-03T18:14:16 IST" name="gooogleMapTest" finished-at="2022-03-03T18:14:24 IST" duration-ms="7565" status="PASS">
+    <test started-at="2022-03-08T15:10:39 IST" name="Default test" finished-at="2022-03-08T15:10:39 IST" duration-ms="43">
+      <class name="Program2">
+        <test-method signature="run()[pri:0, instance:Program2@53fdffa1]" started-at="2022-03-08T15:10:39 IST" name="run" finished-at="2022-03-08T15:10:39 IST" duration-ms="13" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- gooogleMapTest -->
-      </class> <!-- TC006_GET_VALUES_OF_EACH_NODE_IN_JSON -->
+        </test-method> <!-- run -->
+      </class> <!-- Program2 -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

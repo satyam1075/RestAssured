@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="TC005_GET_Validate_JSON_RESPONSE">
+      <class name="Program2">
         <methods>
-          <include name="gooogleMapTest"/>
+          <include name="run"/>
         </methods>
-      </class> <!-- TC005_GET_Validate_JSON_RESPONSE -->
+      </class> <!-- Program2 -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
