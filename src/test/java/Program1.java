@@ -39,7 +39,7 @@ public class Program1 {
 		{
 			Sub downcastedRef = (Sub) upcastedRef;
 			downcastedRef.one();
-			downcastedRef.two();
+			
 		}	
 		
 		
