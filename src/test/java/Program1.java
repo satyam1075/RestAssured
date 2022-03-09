@@ -33,6 +33,7 @@ public class Program1 {
 		upcastedRef.one();
 		System.out.println();
 		System.out.println("Hi");
+		System.out.println("Hi");
 		
 		if(upcastedRef instanceof Sub) 
 		{
