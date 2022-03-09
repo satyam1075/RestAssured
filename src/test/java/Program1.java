@@ -27,10 +27,12 @@ public class Program1 {
 	{
 //		System.out.println("Hi");
 //		System.out.println("Hello world");
-//		method();
+//		method()
 		
 		Super upcastedRef = new Sub();
 		upcastedRef.one();
+		System.out.println();
+		System.out.println("Hi");
 		
 		if(upcastedRef instanceof Sub) 
 		{
